@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pdfplumber
+python-docx
+python-pptx
+pytesseract
+Pillow
+sentence-transformers
+faiss-cpu
+python-multipart
+langchain
+openai
