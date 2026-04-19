@@ -178,7 +178,7 @@ MIT License
 
 ## 👤 Author
 
-Lakshmana Aditya Varma Vegesna
+Kommisetti Madhavan
 
 ---
 
